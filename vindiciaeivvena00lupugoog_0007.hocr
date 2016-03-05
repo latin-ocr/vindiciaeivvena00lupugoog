@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vindiciaeivvena00lupugoog_0007.png"; bbox 0 0 3642 5125; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 502 1162 1361 1240">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 502 1162 1361 1240">
+     <span class='ocr_line' id='line_1_1' title="bbox 502 1162 1361 1240; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 502 1162 630 1239; x_wconf 86' lang='lat' dir='ltr'><strong>VIRO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 657 1162 973 1240; x_wconf 80' lang='lat' dir='ltr'>DOOTISSIMO</span> <span class='ocrx_word' id='word_1_3' title='bbox 1001 1163 1361 1240; x_wconf 83' lang='lat' dir='ltr'>HVMANISSIMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 440 1396 1424 1623">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 440 1396 1424 1623">
+     <span class='ocr_line' id='line_1_2' title="bbox 440 1396 1424 1623; baseline 0 -3"><span class='ocrx_word' id='word_1_4' title='bbox 440 1491 963 1622; x_wconf 72' lang='lat' dir='ltr'><strong>EnvARno</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1042 1396 1424 1623; x_wconf 62' lang='lat' dir='ltr'>swmz</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 457 1738 1034 1816">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 457 1738 1034 1816">
+     <span class='ocr_line' id='line_1_3' title="bbox 457 1738 1034 1816; baseline 0.01 -28"><span class='ocrx_word' id='word_1_6' title='bbox 457 1761 468 1816; x_wconf 38' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_7' title='bbox 821 1738 881 1792; x_wconf 81' lang='lat' dir='ltr'>DR.</span> <span class='ocrx_word' id='word_1_8' title='bbox 901 1738 1034 1794; x_wconf 82' lang='lat' dir='ltr'><strong>THEOL.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 605 2031 1262 2098">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 605 2031 1262 2098">
+     <span class='ocr_line' id='line_1_4' title="bbox 605 2031 1262 2098; baseline 0.002 -1"><span class='ocrx_word' id='word_1_9' title='bbox 605 2031 744 2098; x_wconf 78' lang='lat' dir='ltr'>HASOE</span> <span class='ocrx_word' id='word_1_10' title='bbox 768 2031 1019 2098; x_wconf 84' lang='lat' dir='ltr'>STVDIORVM</span> <span class='ocrx_word' id='word_1_11' title='bbox 1041 2032 1262 2098; x_wconf 84' lang='lat' dir='ltr'>PRIMITIAS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 719 2341 1139 2407">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 719 2341 1139 2407">
+     <span class='ocr_line' id='line_1_5' title="bbox 719 2341 1139 2407; baseline 0.002 -11"><span class='ocrx_word' id='word_1_12' title='bbox 719 2341 780 2398; x_wconf 76' lang='lat'>1²10</span> <span class='ocrx_word' id='word_1_13' title='bbox 799 2341 1004 2407; x_wconf 82' lang='lat' dir='ltr'><strong>GRATOQVE</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1022 2341 1139 2398; x_wconf 85' lang='lat' dir='ltr'><strong>ANIMO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1826 5125">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1826 5125">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1826 5125; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1826 5125; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
